@@ -1,5 +1,3 @@
-# Here is another update by seanmcana
-
 # Here is a new update by seanmcana
 
 # Shipping Cost Calculator
